@@ -22,7 +22,11 @@
     },
     {
       "id": 5,
+<<<<<<< HEAD
       "name": "Robotest"
+=======
+      "name": "АДМИН"
+>>>>>>> 3ceecd9f9aa681a2841a2d1d09676b65ca609bd2
     }
   ]
 }
